@@ -90,7 +90,7 @@ Conectate a mi homelab y visualiza parámetros como (almacenamiento, red, conten
 Mi objetivo a corto/medio plazo es consolidar mis competencias técnicas con las siguientes certificaciones oficiales:
 
 * [ ] **GitHub Foundations** (En preparación 80%)
-* [ ] **AWS Certified Solutions Architect – Associate** (En preparación 10%)
+* [ ] **AWS Certified Solutions Architect – Associate** (En preparación 60%)
 * [ ] **Certified Kubernetes Administrator (CKA)** (Sin comenzar)
 
 ---
