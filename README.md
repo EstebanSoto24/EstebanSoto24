@@ -3,7 +3,7 @@
 # Hola, soy Esteban Soto
 
 
-### **Junior SysAdmin  |  Junior DevOps Engineer  |  Junior Cloud Engineer**
+### **Junior SysAdmin  |  Junior DevOps Engineer**
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esotsaldev@gmail.com)
